@@ -10,3 +10,5 @@ touch .env .env.example
 sh
 
 mkdir controllers models constants utils
+mkdir routers middlwares
+
