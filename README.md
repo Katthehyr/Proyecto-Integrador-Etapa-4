@@ -79,3 +79,7 @@ Base de datos en Mongo Atlas
 Utilización de variables de entorno tanto en el Frontend como en el Backend
 El proyecto tiene que estar funcionando completamente en la nube.
 De ser posible hacer las correcciones mencionadas en las etapas anteriores. 
+
+
+
+Se guarda el trabajo en render
